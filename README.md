@@ -20,7 +20,7 @@ A simple Java-based Car Rental System that allows users to rent and return cars.
 1. **Clone the repository** (if using version control):
 
     ```bash
-    git clone https://github.com/your-username/car-rental-system.git
+    git clone https://github.com/azizbelkhouja/car-rental-system.git
     ```
 
 2. **Navigate to the project directory**:
